@@ -25,9 +25,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/icon/weed.png"
-  adaptive_icon_background: "#000ff"
-  adaptive_icon_foreground: "#ff00ff"
+  image_path: "assets/icon/cannabis.jpg"
 
 flutter:
   uses-material-design: true
